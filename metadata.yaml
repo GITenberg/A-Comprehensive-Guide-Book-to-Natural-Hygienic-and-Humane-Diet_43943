@@ -1,0 +1,29 @@
+_repo: A-Comprehensive-Guide-Book-to-Natural-Hygienic-and-Humane-Diet_43943
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43943-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beard, Sidney Hartnoll
+    alias: Beard, Sydney H.
+    birthdate: 1862
+    gutenberg_agent_id: '42492'
+    url: http://www.gutenberg.org/2009/agents/42492
+description: ''
+gutenberg_issued: '2013-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Diet'
+- !lcsh 'Vegetarian cooking'
+- !lcsh 'Vegetarianism'
+- !lcsh 'Cooking'
+title: A Comprehensive Guide-Book to Natural, Hygienic and Humane Diet
+url: http://www.gutenberg.org/ebooks/43943
